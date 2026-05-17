@@ -1,0 +1,7 @@
+# macOS / editors
+.DS_Store
+.idea/
+.vscode/
+
+# Tooling
+.gstack/
